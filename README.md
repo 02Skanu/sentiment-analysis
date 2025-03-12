@@ -1,9 +1,9 @@
 # 💬 Sentiment Analysis & AI Advice Dashboard
 
-🚀 딥러닝 기반 감정 분석 프로젝트
+딥러닝 기반 감정 분석 프로젝트
 
 ## 📌 Overview
-**Kaggle의 Twitter US Airline Sentiment 데이터셋**을 활용하여 **트윗 내용을 기반으로 감정을 분류하는 딥러닝 모델을 훈련**하고, 이를 맞춤형 솔루션 제공 서비스로 구현하였습니다.   
+**Kaggle의 Twitter US Airline Sentiment 데이터셋**을 활용하여 **트윗 내용을 기반으로 감정을 분류하는 딥러닝 모델을 훈련**하고, 이를 바탕으로 맞춤형 솔루션을 제공하는 서비스로 구현했습니다.   
 **입력된 고객의 의견에 담긴 감정을 분류한 후, GPT를 활용하여 해당 감정에 맞는 조언을 제공**합니다.   
 
 ## 🎯 Features
