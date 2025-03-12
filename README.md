@@ -1,4 +1,4 @@
-# ✈️ Twitter US Airline Sentiment Analysis
+# 💬 Sentiment Analysis & AI Advice Dashboard
 
 🚀 딥러닝 기반 감정 분석 프로젝트
 
@@ -30,13 +30,7 @@
 - BERT (Bidirectional Encoder Representations from Transformers) 모델
 - 모델 성능 평가 : Accuracy
 
-## 🚀 How to Use
-### 1️⃣ 환경 설정
-```bash
-git clone https://github.com/your-username/twitter-airline-sentiment.git
-cd twitter-airline-sentiment
+## 🔧 Trouble shooting
 
-# 가상 환경 생성 및 패키지 설치
-python -m venv venv
-source venv/bin/activate  # Windows는 venv\Scripts\activate
-pip install -r requirements.txt
+## 🚀 Try it!
+🔗 [스트림릿 배포 링크 추가]
