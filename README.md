@@ -23,7 +23,7 @@ Kaggle의 **Twitter US Airline Sentiment dataset**을 활용하여 **트윗 내�
 - HTML 태그, URL, 멘션, 해시태그 제거
 - 불필요한 특수문자 및 숫자 제거
 - `thx/thanks` → `thank`와 같이 단어 정규화
-- 불용어 및 표제어 제거 : NLTK (Natural Language Toolkit), World Cloud 시각화 사용
+- 불용어 및 표제어 제거 : NLTK (Natural Language Toolkit), Word Cloud 시각화 사용
 
 ### 🔹 딥러닝 모델
 - BERT (Bidirectional Encoder Representations from Transformers)
