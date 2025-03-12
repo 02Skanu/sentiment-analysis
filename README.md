@@ -20,14 +20,14 @@
   - 총 14,640개의 샘플 데이터
 
 ## 🏗 Model Architecture
-### 🔹 자연어 전처리 (NLP Preprocessing)
+### 🔹 자연어 전처리
 - HTML 태그, URL, 멘션, 해시태그 제거
 - 불필요한 특수문자 및 숫자 제거
 - `thx/thanks` → `thank`와 같이 단어 정규화
 - 불용어 및 표제어 제거 : NLTK (Natural Language Toolkit), World Cloud 시각화 사용
 
-### 🔹 딥러닝 모델 (DL Model)
-- BERT (Bidirectional Encoder Representations from Transformers) 모델
+### 🔹 딥러닝 모델
+- BERT (Bidirectional Encoder Representations from Transformers)
 - 모델 성능 평가 : Accuracy
 
 ## 🔧 Trouble shooting
